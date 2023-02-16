@@ -11,14 +11,14 @@
 <center>
 	<h1> Hannah Martinez </h1>
 	<h3> portfolio </h3> <br> <br> <br> <br> <br> <br>
-	<img src="nc2.gif">
+	<img src="nc2.gif"> 
 	<img src="c1.jpg">
 	<img src="t1.jpg">
-	<img src="t2.jpg"> 
+	<img src="t2.jpg">
 	<img src="t3.jpg">
 	<img src="t4.gif">
 </center>
-</body> <br> <br> <br> <br> <br> <br>
+</body>
 <footer> 
 <center>
   <p>Author: Hannah Martinez </p>

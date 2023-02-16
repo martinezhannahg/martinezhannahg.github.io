@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title> Hannah Martinez | Multimedia Artist Portfolio </title>
+	<h1> Hannah Martinez </h1> 
+	<a href="index.html">Home</a> <br>
+	<a href="a.html">Skills</a> <br>
+	<a href="b.html">About Me</a> <br>
+	<a href="c.html">Contact</a> <br>
+</head>
+<body>
+	<h3> Contact </h3> 
+	<p>
+		Email: martinezhannahg@gmail.com <br>
+		Phone: +63 999 999 9999 <br>
+		Social: martinezhannahg   
+	</p>
+</body>
+<footer>
+  <p>Author: Hannah Martinez </p>
+  <p>Copyright 2023</p>
+</footer>
+</html>

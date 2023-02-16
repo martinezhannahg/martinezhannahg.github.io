@@ -1,3 +1,4 @@
+
 <html>
 <head>
 	<body bgcolor="#1C1C1C"> <font color="#d8d4d0">  <font face="Verdana">
@@ -11,15 +12,15 @@
 <center>
 	<h1> Hannah Martinez </h1>
 	<h3> portfolio </h3> <br> <br> <br> <br> <br> <br>
-	<img src="nc2.gif">
-	<img src="c1.jpg">
-	<img src="t1.jpg">
-	<img src="t2.jpg"> 
-	<img src="t3.jpg">
-	<img src="t4.gif">
+	<h3> About Me </h3> 
+	<p>
+		Hello! My name is Hannah Martinez and I'm a multimedia artist in Manila, Philippines.
+		<br> 
+		
+	</p> <br> <br> <br> <br> <br>
 </center>
-</body> <br> <br> <br> <br> <br> <br>
-<footer> 
+</body>
+<footer>
 <center>
   <p>Author: Hannah Martinez </p>
   <p>Copyright 2023</p>
