@@ -1,22 +1,29 @@
+
 <html>
 <head>
+	<body bgcolor="#1C1C1C"> <font color="#d8d4d0">  <font face="Verdana">
 	<title> Hannah Martinez | Multimedia Artist Portfolio </title>
-	<h1> Hannah Martinez </h1> 
-	<a href="index.html">Home</a> <br>
-	<a href="a.html">Skills</a> <br>
-	<a href="b.html">About Me</a> <br>
-	<a href="c.html">Contact</a> <br>
+	<a href="index.html"> <font color="#d8d4d0">  Home</a> <br>
+	<a href="a.html"> <font color="#d8d4d0">  Skills</a> <br>
+	<a href="b.html"> <font color="#d8d4d0">  About Me</a> <br>
+	<a href="c.html"> <font color="#d8d4d0">  Contact</a> <br>
 </head>
 <body>
+<center>
+	<h1> Hannah Martinez </h1>
+	<h3> portfolio </h3> <br> <br> <br> <br> <br> <br>
 	<h3> Contact </h3> 
 	<p>
 		Email: martinezhannahg@gmail.com <br>
-		Phone: +63 999 999 9999 <br>
-		Social: martinezhannahg   
-	</p>
+		Phone: +63 916 316 4080 <br>
+		Social: @martinezhannahg   
+	</p>  <br> <br> <br> <br> <br>
+</center>
 </body>
-<footer>
+<footer> 
+<center>
   <p>Author: Hannah Martinez </p>
   <p>Copyright 2023</p>
+</center>
 </footer>
 </html>
